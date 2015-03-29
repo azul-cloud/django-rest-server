@@ -3,4 +3,6 @@ Python 3.4+
 
 #1 git clone https://github.com/azul-cloud/django-rest-server.git
 #2 pip install -r requirements
-#3 ./manage.py migrates
+#3 ./manage.py migrate
+#4 ./manage.py createsuperuser
+#5 ./manage.py runserver
