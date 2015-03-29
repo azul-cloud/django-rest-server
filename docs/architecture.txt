@@ -1,0 +1,2 @@
+This is a django rest server built upon django-rest-framework. It is intended to be a standalone REST
+server to be connected by outside frontend apps. 

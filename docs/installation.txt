@@ -1,0 +1,6 @@
+Django 1.7+
+Python 3.4+
+
+#1 git clone https://github.com/azul-cloud/django-rest-server.git
+#2 pip install -r requirements
+#3 ./manage.py migrates
